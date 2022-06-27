@@ -31,7 +31,7 @@
               <v-row no-gutters>
                 <v-col cols="6" class="my-auto">
                   <span class="" style="font-size: 42px"
-                    >25 <span class="caption error--text">-3.7%</span>
+                    >25 <span class="caption error--text">-3%</span>
                   </span>
                 </v-col>
                 <v-col cols="6">
@@ -117,7 +117,7 @@
               <v-row no-gutters>
                 <v-col cols="7" class="my-auto">
                   <span class="" style="font-size: 42px"
-                    >783 <span class="default--text caption">+3.1%<v-icon color="success"> mdi-arrow-top-right</v-icon></span>
+                    >783 <span class="default--text caption">+15%<v-icon color="success"> mdi-arrow-top-right</v-icon></span>
                   </span>
                 </v-col>
                 <v-col cols="5">
@@ -161,13 +161,13 @@
                 <template v-slot:default>
                   <thead class="pl-2">
                     <tr>
-                      <th class="text-left pa-6">NAME</th>
+                      <th class="text-left pa-6">Nom</th>
                       <th class="text-left">EMAIL</th>
-                      <th class="text-left">PRODUCT</th>
-                      <th class="text-left">PRICE</th>
+                      <th class="text-left">Description</th>
+                      <th class="text-left">Cout</th>
                       <th class="text-left">DATE</th>
-                      <th class="text-left">CITY</th>
-                      <th class="text-left">STATUS</th>
+                      <th class="text-left">Cille</th>
+                      <th class="text-left">STATUT</th>
                     </tr>
                   </thead>
                   <tbody>
