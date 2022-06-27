@@ -166,7 +166,7 @@
                       <th class="text-left">Description</th>
                       <th class="text-left">Cout</th>
                       <th class="text-left">DATE</th>
-                      <th class="text-left">Cille</th>
+                      <th class="text-left">Ville</th>
                       <th class="text-left">STATUT</th>
                     </tr>
                   </thead>
