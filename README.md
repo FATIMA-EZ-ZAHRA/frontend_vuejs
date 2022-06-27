@@ -12,3 +12,7 @@ https://emsi-django-frontend.herokuapp.com/#/dashboard
 
 ```
 
+
+## Page d'accueil de l'application :
+
+[![Page d'accueil de l'application](https://i.postimg.cc/mrJmppvN/api.png)](https://postimg.cc/rdGGKjFK)
