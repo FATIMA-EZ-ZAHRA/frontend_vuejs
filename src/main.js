@@ -19,7 +19,7 @@ Axios.defaults.headers.common = {
   "Content-Type": "application/json;charset=UTF-8",
   "Access-Control-Allow-Origin": "*"
 }
-Axios.defaults.baseURL = (process.env.API_PATH !== 'production') ? 'http://127.0.0.1:8000/api/' : '';
+Axios.defaults.baseURL = 'https://emsi-django-backend.herokuapp.com/api/';
 
 
 Vue.config.productionTip = false
